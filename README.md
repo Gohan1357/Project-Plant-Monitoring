@@ -1,1 +1,1 @@
-This a plant monitoring System  wherein  the IOT sensors will  fetch data and and provide it to the Plant Monitoring App. The App will be a guide to user which will keep the user updated about his/her plant's health and Provide certain recommendations to take action based on it .
+This a plant monitoring System  wherein  the IOT sensors will  fetch data and  provide it to the Plant Monitoring App. The App will be a guide to user which will keep the user updated about his/her plant's health and Provide certain recommendations to take action based on it .
